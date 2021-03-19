@@ -1,0 +1,47 @@
+html, body {
+  margin: 10px;
+  padding: 0;
+ 
+}
+
+#Welcome{
+color:red;
+font-size: 100px;
+margin:  auto;
+
+
+
+border-width: 3px;
+
+
+font-family: Incised901 BdCn BT;
+}
+
+h2{
+text-decoration: none;
+font-family: Incised901 BdCn BT;
+}
+
+#Controls{
+font-family:Incised901 BdCn BT ;
+stroke: black;
+border: 3px solid black;
+
+/*stroke-opacity: 80px; */
+color: rgb(255, 0, 0);
+}
+
+#bg{
+  background-color: rgb(41, 36, 36);
+}
+
+#Img{
+  margin-top: -370px;
+}
+
+#doc{
+  background-color: rgb(52, 54, 49);
+}
+
+
+  
